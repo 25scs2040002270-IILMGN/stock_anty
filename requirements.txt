@@ -1,0 +1,2 @@
+# Forwarding requirements for root-level builds
+-r backend/requirements.txt
